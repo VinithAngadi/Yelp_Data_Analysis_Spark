@@ -6,3 +6,4 @@ yelp_academic_dataset_tip.json
 yelp_academic_dataset_user.json
 .DS_Store
 .git
+.ipynb_checkpoints
