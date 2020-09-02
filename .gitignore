@@ -4,5 +4,5 @@ yelp_academic_dataset_covid_features.json
 yelp_academic_dataset_review.json
 yelp_academic_dataset_tip.json
 yelp_academic_dataset_user.json
-Pipfile
-Pipfile.lock
+.DS_Store
+.git
